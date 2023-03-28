@@ -1,0 +1,44 @@
+{
+  "quizQuestions": [
+    {
+      "id": 1,
+      "question": "What does HTML stands for ?",
+      "A": "Hyper Text  Markup Language",
+      "B": "Tool Markup Language",
+      "C": "Text Markup Language",
+      "ans": "A"
+    },
+    {
+      "id": 2,
+      "question": "How do you write 'Hello World' in an alert box ?",
+      "A": "alertBox('Hello World')",
+      "B": "alert('Hello World')",
+      "C": "msg('Hello World')",
+      "ans": "B"
+    },
+    {
+      "id": 3,
+      "question": "How do you call a function named 'myFunction' ?",
+      "A": "call myFunction",
+      "B": "call function myFunction",
+      "C": "myFunction()",
+      "ans": "C"
+    },
+    {
+      "id": 4,
+      "question": "How does a FOR loop start ?",
+      "A": "for(i<=5;i++)",
+      "B": "for(i=0;i<=5;i++)",
+      "C": "for(i=0;i<=5)",
+      "ans": "B"
+    },
+    {
+      "id": 5,
+      "question": "How can you add a comment in a JavaScript ?",
+      "A": "// This is a comment",
+      "B": "<!--This is a comment-->",
+      "C": "'This is a comment'",
+      "ans": "A"
+    }
+  ]
+}
